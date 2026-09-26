@@ -1,6 +1,6 @@
-# Evaluating-Salinity-Stress-on-Arachis-hypogaea-L.-Using-One-Way-ANOVA-and-Post-Hoc
+# Evaluating-Salinity-Stress-on-Arachis-hypogaea-L.-Using-One-Way-ANOVA-and-Post-Hoc-in-Python
 This script simulates experimental crop data under NaCl stress constraints and executes an automated One-Way ANOVA &amp; Post-Hoc Tukey HSD pipeline.
-# 🔬 Stunted Growth Analytics: Evaluating Salinity Stress on Arachis hypogaea L. Using Python
+# 🔬 Stunted Growth Analytics: Evaluating Salinity Stress on Arachis hypogaea L. Using-One-Way-ANOVA-and-Post-Hoc-in-Python
 
 ## 📌 Project Overview
 This repository serves as an open-source reproducibility package for investigating the morphological and physiological impacts of climate-driven salinity stress on glycophyte crop models, specifically **Peanut (*Arachis hypogaea* L.)**. 
