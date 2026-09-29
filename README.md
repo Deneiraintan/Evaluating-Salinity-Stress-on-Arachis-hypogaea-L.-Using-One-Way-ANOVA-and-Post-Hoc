@@ -25,7 +25,7 @@ This research project bridges large-scale ecological crises—such as peatland d
 ---
 
 ## 📚 References
-- Lee, J. et al. (2025). Global increases of salt intrusion in estuaries under future environmental conditions. *Nature Communications*, 16(1), 1-9.
-- Lupascu, M., & Hapsari, K. A. (2026). Salted Peat: The Forgotten Casualty of Rising Sea Level in Freshwater Coastal Tropical Peatlands. *Global Change Biology Communications*, 1(2), 1-11.
-- Taiz, L., Zeiger, E., Møller, I. M., & Murphy, A. (2015). *Plant physiology and development* (6th ed.). Sinauer Associates.
-- Zar, J. H. (2010). *Biostatistical analysis* (5th ed.). Prentice Hall.
+- Mawaddah, S., Hemon, A. F., & Aryana, I. G. (2026). Uji Toleransi pada Fase Kecambah Beberapa Genotipe Kacang Tanah (Arachis hypogaea L.) terhadap Cekaman Salinitas . Jurnal Ilmiah Mahasiswa , 201-209.
+- Perwira, J., Hermantio, F. Y., Nusantara, E. T., Dhani, M. I., Bezaleel, Y. A., Falahudhin, S. W., & Hafidhoh, U. N. (2022). Pengaruh Cekaman Salinitas terhadap Pertumbuhan Kacang Tanah (Arachis hypogaea L.). Jurnal Penelitian Universitas Brawijaya, 1-6.
+- Satu, S. I., Mansora, & Ahmad, S. (2019). Effects of Salinity on the Growth and Development of Groundnut PlANT (Arachis hypogaea L.). Journal of Bangladesh Academy of Sciences, 25-30.
+- Yunita, R., Khumaida, N., Sopandie, D., & Mariska, I. (2018). Analisis Cekaman Salinitas terhadap Padi Mutan pada Kondisi In Vitro. Penelitian Pertanian Tanaman Pangan, 25-34.
